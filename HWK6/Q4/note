@@ -1,0 +1,4 @@
+For each method 3 different sizes were used( 400,1000 and 2000 elements )
+Each method was executed with them and graph is drawn with regard to those values	 
+Hash functions are 2k + 3 and 3k + 1
+/**binary tree form java is used since there was no restrictions in the pdf and when i saw sth on moodle about it i there was just one day left and i didn't have my laptop with me**/

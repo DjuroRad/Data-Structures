@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"LibraryAutomationSystem.gtu","l":"Admin"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"LibraryAutomationSystem.gtu","l":"BookLocation"},{"p":"LibraryAutomationSystem.gtu","l":"LibrarySystem"},{"p":"<Unnamed>","l":"Main"},{"p":"LibraryAutomationSystem.gtu","l":"Status"},{"p":"LibraryAutomationSystem.gtu","l":"User"}]

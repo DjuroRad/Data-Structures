@@ -1,0 +1,73 @@
+Inserting 10 random els
+
+Book's skip list
+Time taken for '10000' is: 62500 Avg is: 6250
+Time taken for '20000' is: 36400 Avg is: 3640 | Difference with the '10000' one is: -26100
+Time taken for '40000' is: 43200 Avg is: 4320 | Difference with the '20000' one is: 6800
+Time taken for '80000' is: 48100 Avg is: 4810 | Difference with the '40000' one is: 4900
+Question 2's skip list
+Time taken for '10000' is: 42900 Avg is: 4290
+Time taken for '20000' is: 36000 Avg is: 3600 | Difference with the '10000' one is: -6900
+Time taken for '40000' is: 33200 Avg is: 3320 | Difference with the '20000' one is: -2800
+Time taken for '80000' is: 52500 Avg is: 5250 | Difference with the '40000' one is: 19300
+Java's skip list
+Time taken for '10000' is: 25400 Avg is: 2540
+Time taken for '20000' is: 36300 Avg is: 3630 | Difference with the '10000' one is: 10900
+Time taken for '40000' is: 32100 Avg is: 3210 | Difference with the '20000' one is: -4200
+Time taken for '80000' is: 38700 Avg is: 3870 | Difference with the '40000' one is: 6600
+Binary search tree
+Time taken for '10000' is: 19800 Avg is: 1980
+Time taken for '20000' is: 21600 Avg is: 2160 | Difference with the '10000' one is: 1800
+Time taken for '40000' is: 20500 Avg is: 2050 | Difference with the '20000' one is: -1100
+Time taken for '80000' is: 26600 Avg is: 2660 | Difference with the '40000' one is: 6100
+Red blakc tree
+Time taken for '10000' is: 17500 Avg is: 1750
+Time taken for '20000' is: 25700 Avg is: 2570 | Difference with the '10000' one is: 8200
+Time taken for '40000' is: 17100 Avg is: 1710 | Difference with the '20000' one is: -8600
+Time taken for '80000' is: 19700 Avg is: 1970 | Difference with the '40000' one is: 2600
+Java's red black tree
+Time taken for '10000' is: 33500 Avg is: 3350
+Time taken for '20000' is: 19200 Avg is: 1920 | Difference with the '10000' one is: -14300
+Time taken for '40000' is: 16600 Avg is: 1660 | Difference with the '20000' one is: -2600
+Time taken for '80000' is: 17700 Avg is: 1770 | Difference with the '40000' one is: 1100
+Book's B tree
+Time taken for '10000' is: 20900 Avg is: 2090
+Time taken for '20000' is: 19100 Avg is: 1910 | Difference with the '10000' one is: -1800
+Time taken for '40000' is: 44900 Avg is: 4490 | Difference with the '20000' one is: 25800
+Time taken for '80000' is: 18500 Avg is: 1850 | Difference with the '40000' one is: -26400
+
+Removing 10 random els
+
+Book's skip list
+Time taken for '10000' is: 46300 Avg is: 4630
+Time taken for '20000' is: 34300 Avg is: 3430 | Difference with the '10000' one is: -12000
+Time taken for '40000' is: 44900 Avg is: 4490 | Difference with the '20000' one is: 10600
+Time taken for '80000' is: 106400 Avg is: 10640 | Difference with the '40000' one is: 61500
+Question 2's skip list
+Time taken for '10000' is: 102200 Avg is: 10220
+Time taken for '20000' is: 36200 Avg is: 3620 | Difference with the '10000' one is: -66000
+Time taken for '40000' is: 31600 Avg is: 3160 | Difference with the '20000' one is: -4600
+Time taken for '80000' is: 50900 Avg is: 5090 | Difference with the '40000' one is: 19300
+Java's skip list
+Time taken for '10000' is: 185700 Avg is: 18570
+Time taken for '20000' is: 1274900 Avg is: 127490 | Difference with the '10000' one is: 1089200
+Time taken for '40000' is: 95200 Avg is: 9520 | Difference with the '20000' one is: -1179700
+Time taken for '80000' is: 105800 Avg is: 10580 | Difference with the '40000' one is: 10600
+Binary search tree
+Time taken for '10000' is: 38300 Avg is: 3830
+Time taken for '20000' is: 453900 Avg is: 45390 | Difference with the '10000' one is: 415600
+Time taken for '40000' is: 23400 Avg is: 2340 | Difference with the '20000' one is: -430500
+Time taken for '80000' is: 26300 Avg is: 2630 | Difference with the '40000' one is: 2900
+Red black tree
+Time taken for '10000' is: 53500 Avg is: 5350
+Time taken for '20000' is: 30500 Avg is: 3050 | Difference with the '10000' one is: -23000
+Time taken for '40000' is: 33000 Avg is: 3300 | Difference with the '20000' one is: 2500
+Time taken for '80000' is: 724400 Avg is: 72440 | Difference with the '40000' one is: 691400
+Java's red black tree
+Time taken for '10000' is: 64500 Avg is: 6450
+Time taken for '20000' is: 33600 Avg is: 3360 | Difference with the '10000' one is: -30900
+Time taken for '40000' is: 32800 Avg is: 3280 | Difference with the '20000' one is: -800
+Time taken for '80000' is: 34800 Avg is: 3480 | Difference with the '40000' one is: 2000
+
+
+
